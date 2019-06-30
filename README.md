@@ -12,4 +12,9 @@
       Что такое attr_writer, attr_reader и attr_accessor?
     </a>
   </dd>
+  <dd>
+    <a href="https://github.com/majerkravchuk/ruby-developer-interview/blob/master/topics/ruby-question/q3.accessors_tricks.md">
+      Если говорить в контексте переменных инстанса, в чём разница между `@bar = 1`, `self.bar = 1` и `bar = 1`?
+    </a>
+  </dd>
 </dl>
